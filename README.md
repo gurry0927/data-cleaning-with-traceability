@@ -252,3 +252,10 @@ This design is suitable when:
 Clean data is temporary.
 
 **Traceable data survives change.**
+
+
+---
+### Disclaimer
+
+This repository documents general data engineering design patterns and does not reference any proprietary system, dataset, or internal workflow.
+
